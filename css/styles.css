@@ -6,3 +6,28 @@
 #personalInfo p {
   line-height: 0.6;
 }
+
+.educationName {
+  font-weight: bold;
+}
+
+.educationLocation{
+  font-style: italic;
+}
+
+.educationDegreeName{
+  font-style: italic;
+}
+
+.date{
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.bulletPoint{
+  color: #868686;
+}
+
+#programmingSkills .bulletPoint{
+  font-size: 90%;
+}
