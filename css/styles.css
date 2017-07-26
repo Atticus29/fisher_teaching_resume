@@ -4,7 +4,24 @@
 
 
 #personalInfo p {
-  line-height: 0.6;
+  line-height: 1.5;
+  vertical-align: middle;
+}
+
+#personalInfo{
+  text-align: center;
+}
+
+#contact-info{
+  text-align: center;
+}
+
+.dim-underline{
+  color: grey;
+}
+
+.bigger-underline{
+  
 }
 
 .educationName {
@@ -30,4 +47,8 @@
 
 #programmingSkills .bulletPoint{
   font-size: 90%;
+}
+
+#contact-info-col{
+  margin-top: 1.2rem;
 }
