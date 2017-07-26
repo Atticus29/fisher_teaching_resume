@@ -21,7 +21,12 @@
 }
 
 .bigger-underline{
-  
+  border-top: 3px double #8c8b8b;
+}
+
+.individual-subsections{
+  border-top: 1px dotted #8c8b8b;
+  border-bottom: 1px dotted #fff;
 }
 
 .educationName {
