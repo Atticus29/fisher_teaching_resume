@@ -37,6 +37,11 @@
   font-style: italic;
 }
 
+.skill-heading{
+  font-style: italic;
+  text-align: center;
+}
+
 .educationDegreeName{
   font-style: italic;
 }
