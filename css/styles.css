@@ -29,6 +29,12 @@
   border-bottom: 1px dotted #fff;
 }
 
+#qr-code-image{
+  float: right;
+  width: 15%;
+  height: auto;
+}
+
 .educationName {
   font-weight: bold;
 }
