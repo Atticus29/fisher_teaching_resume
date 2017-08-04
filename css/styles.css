@@ -29,6 +29,14 @@
   border-bottom: 1px dotted #fff;
 }
 
+.course-name{
+  font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+}
+
 #qr-code-image{
   float: right;
   width: 15%;
