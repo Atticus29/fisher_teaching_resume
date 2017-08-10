@@ -8,6 +8,15 @@
   font-weight: bold;
 }
 
+.sub-experience{
+  font-size: 130%;
+}
+
+
+.page{
+  page-break-after: always;
+  /*page-break-inside: avoid;*/
+}
 
 #personalInfo p {
   line-height: 1.5;
