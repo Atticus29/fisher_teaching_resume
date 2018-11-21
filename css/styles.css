@@ -12,6 +12,10 @@
   font-size: 130%;
 }
 
+.right-padding{
+  padding-right: 2em;
+}
+
 
 .page{
   page-break-after: always;
@@ -32,16 +36,16 @@
 }
 
 .dim-underline{
-  color: grey;
+  color: black;
 }
 
 .bigger-underline{
-  border-top: 3px double #8c8b8b;
+  border-top: 3px double #000000;
 }
 
 .individual-subsections{
-  border-top: 1px dotted #8c8b8b;
-  border-bottom: 1px dotted #fff;
+  border-top: 1px dotted #000000;
+  border-bottom: 1px dotted #000000;
 }
 
 .course-name{
@@ -77,11 +81,12 @@
 
 .date{
   font-style: italic;
-  font-weight: lighter;
+  /* font-weight: lighter; */
 }
 
 .bulletPoint{
-  color: #868686;
+  padding-left: 2em;
+  color: #000000;
 }
 
 #programmingSkills .bulletPoint{
